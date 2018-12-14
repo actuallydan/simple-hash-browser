@@ -1,5 +1,5 @@
 # Easy Hash
-A barebones function for getting a SHA356 hash of a string using the browser's native crypto module.
+A barebones function for getting a SHA256 hash of a string using the browser's native crypto module.
 
 ### Usage
 ```javascript
